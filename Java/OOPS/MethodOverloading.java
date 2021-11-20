@@ -4,7 +4,7 @@ package javaproject;
  * 
  * */
 class car{                         // Created a car Class
-	public  static void speed(int a) {   // Speed calc And Speed Method  
+	public  void speed(int a) {   // Speed calc And Speed Method  
 		System.out.println(a);
 	}
 	public void speed(int a, int b) {     // Created Another Method With Two Parameters
