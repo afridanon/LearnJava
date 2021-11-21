@@ -30,7 +30,7 @@ class veryadvcalc extends advcalc{
 	}
 }
 //main class
-public class jav{
+public class Inheritence{
 	public static void main(String [] args) {  //mian method
 		veryadvcalc a = new veryadvcalc();    //object of veryadvcalc
 		a.add(2,3);               // perform addition operation
